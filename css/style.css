@@ -19,16 +19,6 @@ header{
   height: 737px;
   background-color: #F2F2F2;
 }
-header .header-radius{
-  width: 780px;
-  height: 780px;
-  background-color: #36536B;
-  border-radius: 50%;
-  position: absolute;
-  top: -172px;
-  left: 800px;
-  opacity: 70%;
-}
 header .container{
   display: flex;
   flex-direction: column;
@@ -446,9 +436,6 @@ footer .socials{
   height: 24px;
   display: flex;
   justify-content: space-between;
-}
-footer .socials a img{
-  transition: 0.4s ease;
 }
 footer .socials div{
   width: 24px;
